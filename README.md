@@ -3,6 +3,8 @@
 
 This application is a feature-rich, Python-based Graphical User Interface (GUI) tool for efficiently annotating images in the standard **YOLO format**. It combines the speed of model-based prediction with the precision of manual editing, making it ideal for large-scale dataset creation and refinement.
 
+<img width="1855" height="1049" alt="image" src="https://github.com/user-attachments/assets/d4cf07b3-dbd5-464e-8f24-1499e126417f" />
+
 ## ✨ Core Features & Technical Details
 
 * **Hybrid Annotation Workflow:** Automatically generates initial bounding boxes by running predictions via a loaded **Ultralytics YOLO model (`.pt`)**.
